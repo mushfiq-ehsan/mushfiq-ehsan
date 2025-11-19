@@ -1,16 +1,88 @@
-## Hi there 👋
+<!-- Profile Visit Counter -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mushfiq-ehsan.mushfiq-ehsan" />
 
-<!--
-**mushfiq-ehsan/mushfiq-ehsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Mushfiq+Ehsan;Nice+to+meet+you!" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  MERN Developer | Front-End Specialist | Future Full-Stack Engineer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I love building clean, modern UI and scalable applications.  
+  Currently learning full-stack architecture & exploring new technologies.  
+  <br/>
+  <b>📫 Reach me:</b>  
+  <a href="mailto:mushfiqehsan193@gmail.com">mushfiqehsan193@gmail.com</a>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://twitter.com/mushfq00" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kazi-mushfiq-ehsan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://fb.com/rafin.apurbo.2025" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,tailwind,firebase,figma,vscode" />
+</p>
+
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<div align="center">
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mushfiq-ehsan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+
+  <img width="390" src="https://streak-stats.demolab.com?user=mushfiq-ehsan&theme=react&border=61dafb&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq-ehsan&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-ehsan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+---
+
+<h2 align="center">📂 Featured Repositories</h2>
+
+<p align="center">Showcase your best work below:</p>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mushfiq-ehsan/your-repo-name">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mushfiq-ehsan&repo=your-repo-name&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+
+  <a align="right" href="https://github.com/mushfiq-ehsan/another-repo">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mushfiq-ehsan&repo=another-repo&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</div>
+
+<br/><br/>
+
+<h3 align="center">
+  <a href="https://github.com/mushfiq-ehsan?tab=repositories">🔎 Show More Projects 🔍</a>
+</h3>

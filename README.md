@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  MERN Developer | Front-End Specialist | Future Full-Stack Engineer
+  MERN Developer | Front-End Specialist 
 </h3>
 
 <p align="center">

@@ -9,8 +9,7 @@
 </h3>
 
 <p align="center">
-  I love building clean, modern UI and scalable applications.  
-  Currently learning full-stack architecture & exploring new technologies.  
+ I am a motivated and passionate Front-End Developer and growing MERN Stack Developer with hands-on experience in building responsive, user-friendly, and visually appealing web applications. I work with HTML5, CSS3, Tailwind CSS, JavaScript (ES6), React, and Firebase, and I enjoy turning ideas into clean, functional, and modern interfaces.  
   <br/>
   <b>📫 Reach me:</b>  
   <a href="mailto:kazi.mushfiq.ehsan@gmail.com">kazi.mushfiq.ehsan@gmail.com</a>

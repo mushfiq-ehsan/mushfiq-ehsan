@@ -16,7 +16,7 @@
   Currently learning full-stack architecture & exploring new technologies.  
   <br/>
   <b>📫 Reach me:</b>  
-  <a href="mailto:mushfiqehsan193@gmail.com">mushfiqehsan193@gmail.com</a>
+  <a href="mailto:kazi.mushfiq.ehsan@gmail.com">mushfiqehsan193@gmail.com</a>
 </p>
 
 ---

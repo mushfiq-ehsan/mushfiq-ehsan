@@ -39,7 +39,7 @@
 <h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,tailwind,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,tailwind,firebase,github" />
 </p>
 
 ---

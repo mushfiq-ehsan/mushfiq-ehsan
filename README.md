@@ -1,5 +1,4 @@
 <!-- Profile Visit Counter -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mushfiq-ehsan.mushfiq-ehsan" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -64,5 +63,7 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-ehsan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mushfiq-ehsan.mushfiq-ehsan" />
 
 ---

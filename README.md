@@ -66,23 +66,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-ehsan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
-
-<h2 align="center">📂 Featured Repositories</h2>
-
-<p align="center">Showcase your best work below:</p>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mushfiq-ehsan/your-repo-name">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mushfiq-ehsan&repo=your-repo-name&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-
-  <a align="right" href="https://github.com/mushfiq-ehsan/another-repo">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mushfiq-ehsan&repo=another-repo&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-</div>
-
-<br/><br/>
-
-<h3 align="center">
-  <a href="https://github.com/mushfiq-ehsan?tab=repositories">🔎 Show More Projects 🔍</a>
-</h3>

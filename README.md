@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:7EE6C4&height=220&section=header&text=Mushfiq%20Ehsan&fontSize=58&fontColor=0A0E14&animation=fadeIn&fontAlignY=38&desc=%3C%20Front-End%20Developer%20%2F%2F%20Building%20with%20React%20%26%20Tailwind%20%3E&descAlignY=58&descSize=18&descColor=0A0E14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:7EE6C4&height=200&section=header&text=Mushfiq%20Ehsan&fontSize=60&fontColor=F2F5F8&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7EE6C4&background=0A0E14&center=true&vCenter=true&width=650&lines=const+developer+%3D+%22Mushfiq+Ehsan%22%3B;while(true)+%7B+code()%3B+learn()%3B+%7D;console.log(%22Building+clean+UIs+%F0%9F%9A%80%22)%3B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=7EE6C4&background=0A0E14&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Mushfiq+%F0%9F%91%8B;Front-End+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+Firebase;Turning+Ideas+Into+Interfaces+%F0%9F%9A%80" />
 </a>
 
 <br/>

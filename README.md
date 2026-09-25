@@ -1,45 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=220&section=header&text=Mushfiq%20Ehsan&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Growing%20MERN%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:7EE6C4&height=220&section=header&text=Mushfiq%20Ehsan&fontSize=58&fontColor=0A0E14&animation=fadeIn&fontAlignY=38&desc=%3C%20Front-End%20Developer%20%2F%2F%20Building%20with%20React%20%26%20Tailwind%20%3E&descAlignY=58&descSize=18&descColor=0A0E14" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Mushfiq+Ehsan;Front-End+Developer;Building+with+React+%26+Tailwind;MERN+Stack+in+Progress..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7EE6C4&background=0A0E14&center=true&vCenter=true&width=650&lines=const+developer+%3D+%22Mushfiq+Ehsan%22%3B;while(true)+%7B+code()%3B+learn()%3B+%7D;console.log(%22Building+clean+UIs+%F0%9F%9A%80%22)%3B" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mushfiq-ehsan&label=PROFILE%20VIEWS&color=61dafb&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mushfiq-ehsan&label=PROFILE+VIEWS&color=7EE6C4&style=for-the-badge&labelColor=0A0E14" alt="profile views"/>
 
-<a href="https://www.linkedin.com/in/kazi-mushfiq-ehsan-031226329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://kazi-mushfiq-ehsan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=61DAFB" /></a>
-<a href="mailto:kazi.mushfiq.ehsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/mushfq00"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://fb.com/rafin.apurbo.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kazi-mushfiq-ehsan-031226329/"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=7EE6C4&labelColor=0A0E14" /></a>
+<a href="https://kazi-mushfiq-ehsan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0E14?style=for-the-badge&logo=firefox&logoColor=7EE6C4&labelColor=0A0E14" /></a>
+<a href="mailto:kazi.mushfiq.ehsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0E14?style=for-the-badge&logo=gmail&logoColor=7EE6C4&labelColor=0A0E14" /></a>
+<a href="https://twitter.com/mushfq00"><img src="https://img.shields.io/badge/Twitter-0A0E14?style=for-the-badge&logo=twitter&logoColor=7EE6C4&labelColor=0A0E14" /></a>
+<a href="https://fb.com/rafin.apurbo.2025"><img src="https://img.shields.io/badge/Facebook-0A0E14?style=for-the-badge&logo=facebook&logoColor=7EE6C4&labelColor=0A0E14" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7EE6C4&height=3&section=header" width="100%"/>
 
-<h2 align="center">👋 About Me</h2>
+<h3 align="center"><code>// about-me.js</code></h3>
 
 <div align="center">
 
-🎯&nbsp; Front-End Developer, growing into a full **MERN Stack** Developer  
-💼&nbsp; Currently working as **Wix Junior Executive** at **Softvence Omega** (Wix Coders team)  
-🌱&nbsp; Deepening my skills in **Node.js** and **MongoDB**  
-🎓&nbsp; B.Sc. in CSE, University of Information Technology & Sciences (UITS), 2025  
-📍&nbsp; Based in Khilgaon, Dhaka, Bangladesh  
-💬&nbsp; Ask me about React, Tailwind CSS, Firebase, or Wix/Velo  
-⚡&nbsp; Fun fact: I turn ideas into clean, functional interfaces — one component at a time
+```js
+const mushfiq = {
+  role: "Front-End Developer",
+  growingInto: "MERN Stack Developer",
+  currentJob: "Wix Junior Executive @ Softvence Omega",
+  education: "B.Sc. in CSE, UITS (2025)",
+  location: "Khilgaon, Dhaka, Bangladesh",
+  currentlyLearning: ["Node.js", "MongoDB"],
+  askMeAbout: ["React", "Tailwind CSS", "Firebase", "Wix/Velo"],
+};
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7EE6C4&height=3&section=header" width="100%"/>
 
-<h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
+<h3 align="center"><code>// tech-stack.js</code></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github&perline=6&theme=dark" />
 </p>
 
 <div align="center">
@@ -53,9 +57,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7EE6C4&height=3&section=header" width="100%"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h3 align="center"><code>// featured-projects.js</code></h3>
 
 <div align="center">
 
@@ -72,31 +76,31 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7EE6C4&height=3&section=header" width="100%"/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h3 align="center"><code>// github-trophies.js</code></h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mushfiq-ehsan&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mushfiq-ehsan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </div>
 
-<h2 align="center">⚡ GitHub Stats</h2>
+<h3 align="center"><code>// github-stats.js</code></h3>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mushfiq-ehsan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=mushfiq-ehsan&theme=react&border=61dafb&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq-ehsan&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mushfiq-ehsan&show_icons=true&theme=react&bg_color=10151C&title_color=7EE6C4&icon_color=7EE6C4&text_color=C9D3DE&border_color=10151C&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=mushfiq-ehsan&background=10151C&stroke=7EE6C4&ring=7EE6C4&fire=7EE6C4&currStreakLabel=7EE6C4&sideLabels=C9D3DE&currStreakNum=F2F5F8&sideNums=F2F5F8&dates=6B7688&border=10151C&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-ehsan&theme=react-dark&bg_color=20232a&hide_border=true" width="95%"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq-ehsan&layout=compact&theme=react&bg_color=10151C&title_color=7EE6C4&text_color=C9D3DE&border_color=10151C&hide_border=true" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=150&section=footer" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-ehsan&bg_color=10151C&color=7EE6C4&line=7EE6C4&point=7EE6C4&area_color=7EE6C4&title_color=7EE6C4&hide_border=true" width="95%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:7EE6C4&height=150&section=footer" width="100%"/>
 
 <p align="center">
-  <b><i>Thanks for stopping by — let's build something great together! 🚀</i></b>
+  <code>console.log("Thanks for stopping by — let's build something great together 🚀");</code>
 </p>

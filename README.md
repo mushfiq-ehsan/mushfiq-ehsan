@@ -11,7 +11,7 @@
 <p align="center">
  I am a motivated and passionate Front-End Developer and growing MERN Stack Developer with hands-on experience in building responsive, user-friendly, and visually appealing web applications. I work with HTML5, CSS3, Tailwind CSS, JavaScript (ES6), React, and Firebase, and I enjoy turning ideas into clean, functional, and modern interfaces.  
   <br/>
-  <b>🌐 Portfolio:</b> <a href="https://kazi-mushfiq-ehsan.netlify.app">kazi-mushfiq-ehsan.netlify.app</a>
+  <b>🌐 Portfolio:</b> <a href="https://kazi-mushfiq-ehsan.netlify.app" target="_blank">kazi-mushfiq-ehsan.netlify.app</a>
   <br/>
   <b>📫 Reach me:</b>  
   <a href="mailto:kazi.mushfiq.ehsan@gmail.com">kazi.mushfiq.ehsan@gmail.com</a>
